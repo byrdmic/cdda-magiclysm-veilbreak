@@ -2,7 +2,7 @@
   {
     "type": "MOD_INFO",
     "id": "magiclysm_veilbreak",
-    "name": "Magiclysm – Hidden Magic",
+    "name": "Magiclysm – Veilbreak",
     "authors": [ "Mike" ],
     "description": "Rebalances Magiclysm so magic is rare: no fantasy monsters, no mage NPCs, only the player can cast.",
     "category": "monster_exclude",
