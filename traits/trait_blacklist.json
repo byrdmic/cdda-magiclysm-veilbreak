@@ -1,0 +1,17 @@
+[
+  {
+    "type": "TRAIT_BLACKLIST",
+    "traits": [
+      "DWARVEN_BUILD",
+      "ELVEN_BUILD",
+      "GOBLIN_BUILD",
+      "LIZARDFOLK_BUILD",
+      "RAVENFOLK_BUILD",
+      "THRESH_SPECIES_DWARF",
+      "THRESH_SPECIES_ELF",
+      "THRESH_SPECIES_GOBLIN",
+      "THRESH_SPECIES_LIZARDFOLK",
+      "THRESH_SPECIES_RAVENFOLK"
+    ]
+  }
+]

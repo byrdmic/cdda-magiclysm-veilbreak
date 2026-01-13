@@ -1,0 +1,41 @@
+[
+  {
+    "type": "faction",
+    "id": "wizards_ancient",
+    "//": "Veilbreak: Disabled magic faction - no NPCs will use this",
+    "name": "Disbanded Group",
+    "likes_u": 0,
+    "respects_u": 0,
+    "known_by_u": false,
+    "size": 0,
+    "power": 0,
+    "wealth": 0,
+    "description": "A group that no longer exists."
+  },
+  {
+    "type": "faction",
+    "id": "healers_grey",
+    "//": "Veilbreak: Disabled magic faction - no NPCs will use this",
+    "name": "Disbanded Group",
+    "likes_u": 0,
+    "respects_u": 0,
+    "known_by_u": false,
+    "size": 0,
+    "power": 0,
+    "wealth": 0,
+    "description": "A group that no longer exists."
+  },
+  {
+    "type": "faction",
+    "id": "forge_lords",
+    "//": "Veilbreak: Disabled magic faction - no NPCs will use this",
+    "name": "Disbanded Group",
+    "likes_u": 0,
+    "respects_u": 0,
+    "known_by_u": false,
+    "size": 0,
+    "power": 0,
+    "wealth": 0,
+    "description": "A group that no longer exists."
+  }
+]

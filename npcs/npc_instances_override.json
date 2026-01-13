@@ -1,0 +1,90 @@
+[
+  {
+    "type": "npc",
+    "id": "magus_old",
+    "//": "Veilbreak: Converted from magic wizard to vanilla survivor",
+    "name_suffix": "hermit",
+    "class": "NC_HALLU",
+    "attitude": 0,
+    "mission": 7,
+    "chat": "TALK_STRANGER_NEUTRAL",
+    "faction": "no_faction"
+  },
+  {
+    "type": "npc",
+    "id": "techno_kid",
+    "//": "Veilbreak: Converted from technomancer to vanilla survivor",
+    "name_suffix": "student",
+    "class": "NC_HALLU",
+    "attitude": 0,
+    "mission": 7,
+    "chat": "TALK_STRANGER_NEUTRAL",
+    "faction": "no_faction"
+  },
+  {
+    "type": "npc",
+    "id": "healer_priest",
+    "//": "Veilbreak: Converted from biomancer healer to vanilla survivor",
+    "name_suffix": "medic",
+    "class": "NC_DOCTOR",
+    "attitude": 0,
+    "mission": 7,
+    "chat": "TALK_STRANGER_NEUTRAL",
+    "faction": "no_faction"
+  },
+  {
+    "type": "npc",
+    "id": "forge_lord_merchant",
+    "//": "Veilbreak: Converted from magic forge lord to vanilla trader",
+    "name_suffix": "trader",
+    "class": "NC_TRADER",
+    "attitude": 0,
+    "mission": 3,
+    "chat": "TALK_STRANGER_NEUTRAL",
+    "faction": "no_faction"
+  },
+  {
+    "type": "npc",
+    "id": "forge_lord_librarian",
+    "//": "Veilbreak: Converted from magic librarian to vanilla survivor",
+    "name_suffix": "bookkeeper",
+    "class": "NC_HALLU",
+    "attitude": 0,
+    "mission": 3,
+    "chat": "TALK_STRANGER_NEUTRAL",
+    "faction": "no_faction"
+  },
+  {
+    "type": "npc",
+    "id": "forge_lord_diviner",
+    "//": "Veilbreak: Converted from magic diviner to vanilla survivor",
+    "name_suffix": "wanderer",
+    "class": "NC_HALLU",
+    "attitude": 0,
+    "mission": 3,
+    "chat": "TALK_STRANGER_NEUTRAL",
+    "faction": "no_faction"
+  },
+  {
+    "type": "npc",
+    "id": "forge_lord_reagents",
+    "//": "Veilbreak: Converted from pirate queen to vanilla trader",
+    "name_suffix": "trader",
+    "class": "NC_TRADER",
+    "attitude": 0,
+    "mission": 3,
+    "chat": "TALK_STRANGER_NEUTRAL",
+    "faction": "no_faction"
+  },
+  {
+    "type": "npc",
+    "id": "forge_lord_pirate",
+    "//": "Veilbreak: Converted from pirate to vanilla survivor",
+    "name_suffix": "guard",
+    "class": "NC_BOUNTY_HUNTER",
+    "attitude": 0,
+    "mission": 8,
+    "chat": "TALK_STRANGER_NEUTRAL",
+    "faction": "no_faction"
+  }
+]
