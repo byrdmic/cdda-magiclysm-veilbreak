@@ -1,0 +1,15 @@
+[
+  {
+    "type": "trait_group",
+    "id": "NPC_starting_traits",
+    "//": "Override Magiclysm's NPC_starting_traits to remove fantasy species. NPCs will be human only.",
+    "subtype": "collection",
+    "traits": [
+      { "group": "trait_group_MANA_REGEN", "prob": 15 },
+      { "group": "trait_group_MANA_MULT", "prob": 5 },
+      { "group": "trait_group_MANA_ADD", "prob": 10 },
+      { "group": "trait_group_SCHOOL_DEFICIENCY_SINGLE", "prob": 15 },
+      { "group": "trait_group_SCHOOL_DEFICIENCY_MULTIPLE", "prob": 2 }
+    ]
+  }
+]
