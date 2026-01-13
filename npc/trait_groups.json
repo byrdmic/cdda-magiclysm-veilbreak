@@ -11,5 +11,47 @@
       { "group": "trait_group_SCHOOL_DEFICIENCY_SINGLE", "prob": 15 },
       { "group": "trait_group_SCHOOL_DEFICIENCY_MULTIPLE", "prob": 2 }
     ]
+  },
+  {
+    "type": "trait_group",
+    "id": "trait_group_fantasy_species",
+    "//": "Override to prevent any fantasy species from being assigned",
+    "subtype": "distribution",
+    "traits": []
+  },
+  {
+    "type": "trait_group",
+    "id": "trait_group_elf_npc",
+    "//": "Override to empty - no elf traits",
+    "subtype": "collection",
+    "traits": []
+  },
+  {
+    "type": "trait_group",
+    "id": "trait_group_dwarf_npc",
+    "//": "Override to empty - no dwarf traits",
+    "subtype": "collection",
+    "traits": []
+  },
+  {
+    "type": "trait_group",
+    "id": "trait_group_goblin_npc",
+    "//": "Override to empty - no goblin traits",
+    "subtype": "collection",
+    "traits": []
+  },
+  {
+    "type": "trait_group",
+    "id": "trait_group_lizardfolk_npc",
+    "//": "Override to empty - no lizardfolk traits",
+    "subtype": "collection",
+    "traits": []
+  },
+  {
+    "type": "trait_group",
+    "id": "trait_group_ravenfolk_npc",
+    "//": "Override to empty - no ravenfolk traits",
+    "subtype": "collection",
+    "traits": []
   }
 ]

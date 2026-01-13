@@ -1,5 +1,5 @@
 #!/usr/bin/env bun
-import { mkdir, readdir } from "node:fs/promises";
+import { mkdir, readdir, rm } from "node:fs/promises";
 import { join, dirname, relative } from "node:path";
 
 // Get the USER_MOD_DIR from .env (Bun auto-loads .env files)
@@ -74,7 +74,11 @@ async function copyModFiles() {
   console.log(`📂 Source directory: ${sourceDir}\n`);
 
   try {
-    // Create destination directory if it doesn't exist
+    // Remove existing destination directory to start fresh
+    await rm(destDir, { recursive: true, force: true });
+    console.log(`🗑️  Cleaned: ${destDir}\n`);
+
+    // Create destination directory
     await mkdir(destDir, { recursive: true });
 
     let copiedCount = 0;
