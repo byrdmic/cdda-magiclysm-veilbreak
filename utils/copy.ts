@@ -10,8 +10,8 @@ if (!userModDir) {
   process.exit(1);
 }
 
-// Source directory (where this script is located)
-const sourceDir = import.meta.dir;
+// Source directory (project root, one level up from utils/)
+const sourceDir = join(import.meta.dir, "..");
 
 // Destination directory
 const destDir = join(userModDir, "magiclysm_veilbreak");
@@ -22,10 +22,14 @@ const excludePatterns = [
   ".git",
   ".gitignore",
   "node_modules",
+  "utils",
   "*.ts",
   "*.md",
   ".claude",
   "tmpclaude-", // Claude Code temp files
+  "package.json",
+  "tsconfig.json",
+  "bun.lock",
 ];
 
 // Check if a file should be excluded
