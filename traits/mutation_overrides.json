@@ -1,0 +1,298 @@
+[
+  {
+    "type": "mutation",
+    "id": "THRESH_SPECIES_DWARF",
+    "//": "Threshold - Dwarf",
+    "copy-from": "THRESH_SPECIES_DWARF",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_SPECIES_ELF",
+    "//": "Threshold - Elf",
+    "copy-from": "THRESH_SPECIES_ELF",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_SPECIES_GOBLIN",
+    "//": "Threshold - Goblin",
+    "copy-from": "THRESH_SPECIES_GOBLIN",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_SPECIES_LIZARDFOLK",
+    "//": "Threshold - Lizardfolk",
+    "copy-from": "THRESH_SPECIES_LIZARDFOLK",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "THRESH_SPECIES_RAVENFOLK",
+    "//": "Threshold - Ravenfolk",
+    "copy-from": "THRESH_SPECIES_RAVENFOLK",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "DWARVEN_BUILD",
+    "//": "Build - Dwarf",
+    "copy-from": "DWARVEN_BUILD",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "ELVEN_BUILD",
+    "//": "Build - Elf",
+    "copy-from": "ELVEN_BUILD",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "GOBLIN_BUILD",
+    "//": "Build - Goblin",
+    "copy-from": "GOBLIN_BUILD",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "LIZARDFOLK_BUILD",
+    "//": "Build - Lizardfolk",
+    "copy-from": "LIZARDFOLK_BUILD",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "RAVENFOLK_BUILD",
+    "//": "Build - Ravenfolk",
+    "copy-from": "RAVENFOLK_BUILD",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "ELFA_EARS",
+    "//": "Elf-specific",
+    "copy-from": "ELFA_EARS",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "ELFA_NV",
+    "//": "Elf-specific",
+    "copy-from": "ELFA_NV",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "ELVEN_BEAUTY",
+    "//": "Elf-specific",
+    "copy-from": "ELVEN_BEAUTY",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "ELVEN_SLEEP",
+    "//": "Elf-specific",
+    "copy-from": "ELVEN_SLEEP",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "ELVEN_HEARING",
+    "//": "Elf-specific",
+    "copy-from": "ELVEN_HEARING",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "ELVEN_SIGHT",
+    "//": "Elf-specific",
+    "copy-from": "ELVEN_SIGHT",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "ELVEN_NEED_FOR_WILDERNESS",
+    "//": "Elf-specific",
+    "copy-from": "ELVEN_NEED_FOR_WILDERNESS",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "WILDWALKER",
+    "//": "Elf-specific",
+    "copy-from": "WILDWALKER",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "ANIMALEMPATH2",
+    "//": "Elf-specific",
+    "copy-from": "ANIMALEMPATH2",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "DARKSIGHT",
+    "//": "Dwarf-specific",
+    "copy-from": "DARKSIGHT",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "BORN_ARTISAN",
+    "//": "Dwarf-specific",
+    "copy-from": "BORN_ARTISAN",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "TUNNEL_FIGHTER",
+    "//": "Dwarf-specific",
+    "copy-from": "TUNNEL_FIGHTER",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "GOBLIN_TEETH",
+    "//": "Goblin-specific",
+    "copy-from": "GOBLIN_TEETH",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "GOBLIN_EYES",
+    "//": "Goblin-specific",
+    "copy-from": "GOBLIN_EYES",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "COLDBLOOD4_LIZ",
+    "//": "Lizardfolk-specific",
+    "copy-from": "COLDBLOOD4_LIZ",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "PRED_LIZ",
+    "//": "Lizardfolk-specific",
+    "copy-from": "PRED_LIZ",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "WEBBED_LIZ_FEET",
+    "//": "Lizardfolk-specific",
+    "copy-from": "WEBBED_LIZ_FEET",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "MUZZLE_LONG_LIZ",
+    "//": "Lizardfolk-specific",
+    "copy-from": "MUZZLE_LONG_LIZ",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "LIZ_EYE",
+    "//": "Lizardfolk-specific",
+    "copy-from": "LIZ_EYE",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "REGEN_LIZ",
+    "//": "Lizardfolk-specific",
+    "copy-from": "REGEN_LIZ",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "RAVENFOLK_WINGS",
+    "//": "Ravenfolk-specific",
+    "copy-from": "RAVENFOLK_WINGS",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "RAVENFOLK_LEGS",
+    "//": "Ravenfolk-specific",
+    "copy-from": "RAVENFOLK_LEGS",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "BEAK_RAVEN",
+    "//": "Ravenfolk-specific",
+    "copy-from": "BEAK_RAVEN",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "RAVEN_BONES",
+    "//": "Ravenfolk-specific",
+    "copy-from": "RAVEN_BONES",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "LIGHT_BONES",
+    "//": "Ravenfolk-specific",
+    "copy-from": "LIGHT_BONES",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "NOCTURNAL",
+    "//": "Shared fantasy trait",
+    "copy-from": "NOCTURNAL",
+    "valid": false,
+    "starting_trait": false
+  },
+  {
+    "type": "mutation",
+    "id": "LOVES_SHINY_OBJECTS",
+    "//": "Shared fantasy trait",
+    "copy-from": "LOVES_SHINY_OBJECTS",
+    "valid": false,
+    "starting_trait": false
+  }
+]

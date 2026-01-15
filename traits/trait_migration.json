@@ -1,0 +1,187 @@
+[
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "THRESH_SPECIES_DWARF",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "THRESH_SPECIES_ELF",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "THRESH_SPECIES_GOBLIN",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "THRESH_SPECIES_LIZARDFOLK",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "THRESH_SPECIES_RAVENFOLK",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "DWARVEN_BUILD",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "ELVEN_BUILD",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "GOBLIN_BUILD",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "LIZARDFOLK_BUILD",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "RAVENFOLK_BUILD",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "ELFA_EARS",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "ELFA_NV",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "ELVEN_BEAUTY",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "ELVEN_SLEEP",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "ELVEN_HEARING",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "ELVEN_SIGHT",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "ELVEN_NEED_FOR_WILDERNESS",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "WILDWALKER",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "ANIMALEMPATH2",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "DARKSIGHT",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "BORN_ARTISAN",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "TUNNEL_FIGHTER",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "GOBLIN_TEETH",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "GOBLIN_EYES",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "NOCTURNAL",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "COLDBLOOD4_LIZ",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "PRED_LIZ",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "WEBBED_LIZ_FEET",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "MUZZLE_LONG_LIZ",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "LIZ_EYE",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "REGEN_LIZ",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "RAVENFOLK_WINGS",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "RAVENFOLK_LEGS",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "BEAK_RAVEN",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "RAVEN_BONES",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "LIGHT_BONES",
+    "remove": true
+  },
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "LOVES_SHINY_OBJECTS",
+    "remove": true
+  }
+]

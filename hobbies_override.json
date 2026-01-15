@@ -1,0 +1,57 @@
+[
+  {
+    "type": "profession",
+    "subtype": "hobby",
+    "id": "hobby_species_elf",
+    "copy-from": "hobby_species_elf",
+    "//": "Override to disable - fantasy species not available in Veilbreak",
+    "name": "Elf (Disabled)",
+    "description": "This species is not available in this mod configuration.",
+    "points": 0,
+    "traits": []
+  },
+  {
+    "type": "profession",
+    "subtype": "hobby",
+    "id": "hobby_species_dwarf",
+    "copy-from": "hobby_species_dwarf",
+    "//": "Override to disable - fantasy species not available in Veilbreak",
+    "name": "Dwarf (Disabled)",
+    "description": "This species is not available in this mod configuration.",
+    "points": 0,
+    "traits": []
+  },
+  {
+    "type": "profession",
+    "subtype": "hobby",
+    "id": "hobby_species_goblin",
+    "copy-from": "hobby_species_goblin",
+    "//": "Override to disable - fantasy species not available in Veilbreak",
+    "name": "Goblin (Disabled)",
+    "description": "This species is not available in this mod configuration.",
+    "points": 0,
+    "traits": []
+  },
+  {
+    "type": "profession",
+    "subtype": "hobby",
+    "id": "hobby_species_lizardfolk",
+    "copy-from": "hobby_species_lizardfolk",
+    "//": "Override to disable - fantasy species not available in Veilbreak",
+    "name": "Lizardfolk (Disabled)",
+    "description": "This species is not available in this mod configuration.",
+    "points": 0,
+    "traits": []
+  },
+  {
+    "type": "profession",
+    "subtype": "hobby",
+    "id": "hobby_species_ravenfolk",
+    "copy-from": "hobby_species_ravenfolk",
+    "//": "Override to disable - fantasy species not available in Veilbreak",
+    "name": "Ravenfolk (Disabled)",
+    "description": "This species is not available in this mod configuration.",
+    "points": 0,
+    "traits": []
+  }
+]

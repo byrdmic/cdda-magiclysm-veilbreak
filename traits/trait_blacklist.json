@@ -1,6 +1,7 @@
 [
   {
     "type": "TRAIT_BLACKLIST",
+    "//": "Block all fantasy species traits from appearing on NPCs or being gained",
     "traits": [
       "DWARVEN_BUILD",
       "ELVEN_BUILD",
@@ -20,8 +21,10 @@
       "ELVEN_SIGHT",
       "ELVEN_NEED_FOR_WILDERNESS",
       "WILDWALKER",
+      "ANIMALEMPATH2",
       "DARKSIGHT",
       "BORN_ARTISAN",
+      "TUNNEL_FIGHTER",
       "GOBLIN_TEETH",
       "GOBLIN_EYES",
       "NOCTURNAL",
@@ -29,10 +32,13 @@
       "PRED_LIZ",
       "WEBBED_LIZ_FEET",
       "MUZZLE_LONG_LIZ",
+      "LIZ_EYE",
+      "REGEN_LIZ",
       "RAVENFOLK_WINGS",
       "RAVENFOLK_LEGS",
       "BEAK_RAVEN",
       "RAVEN_BONES",
+      "LIGHT_BONES",
       "LOVES_SHINY_OBJECTS"
     ]
   }
